@@ -48,4 +48,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 ## My Other Projects 
-[Time Travel](https://github.com/fast-and-curious-1910/time-travel.git"Click Here!")
+[Time Travel](https://github.com/fast-and-curious-1910/time-travel.git "Click Here!")
