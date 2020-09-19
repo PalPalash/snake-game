@@ -23,10 +23,10 @@ replace
 with 
 
 ```
-<script src="https://raw.githubusercontent.com/PalPalash/snake-game/master/script.js">
+<script src="https://raw.githubusercontent.com/fast-and-curious-1910/snake-game/master/script.js">
 ```
 or if that dosent work , go to 
-https://raw.githubusercontent.com/PalPalash/snake-game/master/script.js and copy it , then 
+https://raw.githubusercontent.com/fast-and-curious-1910/snake-game/master/script.js and copy it , then 
 remove and everythong between them 
 ```
 <script>
