@@ -9,7 +9,7 @@ The player controls a dot, square, or object on a bordered plane. As it moves fo
 
 ## Where to play 
 
-Either just download index.html and run it or go to the website (coming soon)
+Either just download index.html and run it or go to the [website](https://fast-and-curious-1910.github.io/snake-game/)
 
 ## Problems
 I have noticed some times it won't work , then 
