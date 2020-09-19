@@ -49,4 +49,5 @@ Please make sure to update tests as appropriate.
 
 ## My Other Projects 
 [Time Travel](https://github.com/fast-and-curious-1910/time-travel.git "Click Here!")
+<br>
 [COVID-CALCULATOR](https://github.com/fast-and-curious-1910/hackathon_whjr-covid-calculator.git "Click Here!")
